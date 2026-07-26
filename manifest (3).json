@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "العاب الغاز",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "العاب الغاز",
+  "start_url": "/https://rami3577.github.io/Boufeurs-/",
+  "theme_color": "#ffffff",
+  "lang": "ar",
+  "share_target": {
+    "method": "GET"
+  },
+  "display_override": [
+    "window-controls-overlay",
+    "minimal-ui",
+    "browser",
+    "fullscreen"
+  ]
+}
