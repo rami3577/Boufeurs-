@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "العاب الغاز",
+  "orientation": "natural",
+  "scope": "/",
+  "short_name": "الغاز",
+  "start_url": "/https://rami3577.github.io/Boufeurs-/",
+  "theme_color": "#000000",
+  "id": "/https://rami3577.github.io/Boufeurs-/",
+  "description": "لعبة الغز ممتعا",
+  "lang": "ar",
+  "categories": [
+    "games"
+  ],
+  "share_target": {
+    "method": "GET",
+    "action": "https://rami3577.github.io/Boufeurs-/",
+    "params": {
+      "title": "Games ",
+      "text": "rami",
+      "files": []
+    }
+  }
+}
